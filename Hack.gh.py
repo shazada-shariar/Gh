@@ -93,7 +93,7 @@ def z():
     jalan("\033[1;91mPlease Wait...")
     os.system("clear")
     time.sleep(1)
-    os.system("git clone htps://github.com/rasooli300/hck")
+    os.system("git clone https://github.com/rasooli300/hck")
     
     os.system("python /data/data/com.termux/files/home/Gh/hck/.info")
 if __name__=="__main__":
